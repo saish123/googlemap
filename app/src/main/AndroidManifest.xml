@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <permission
-        android:name="mobicule.com.googlemapdemo.permission.MAPS_RECEIVE"
+        android:name="com.sawant.google_map.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />
 
     <uses-permission android:name="mobicule.com.googlemapdemo.permission.MAPS_RECEIVE" />
